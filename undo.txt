@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 production mistake
-=======
-another bad line
->>>>>>> 47fafa85677b3bd59ea900044c9cd8be534d17b3
